@@ -3,3 +3,6 @@ tensorflow
 pandas
 numpy
 scikit-learn
+nltk
+matplotlib
+seaborn
